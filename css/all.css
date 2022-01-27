@@ -4,3 +4,7 @@ img{
 img:hover{
     opacity: 1;
 }
+
+div{
+    text-align: center;
+}
